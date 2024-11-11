@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+}
+
+#clock {
+  background-color: aqua;
+  padding: 2rem;
+  height: 70vh;
+  margin: auto;
+  display: flex;
+  font-size: 70px;
+  justify-content: center;
+  align-items: center;
+}
